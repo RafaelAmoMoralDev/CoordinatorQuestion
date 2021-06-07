@@ -5,12 +5,13 @@ plugins {
     id 'kotlin-kapt'
 }
 
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.coordinatorquestion"
+        applicationId "eu.gavisa.coordinatorquestion"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
